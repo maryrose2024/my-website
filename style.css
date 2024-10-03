@@ -1,0 +1,37 @@
+body {
+    background-image: url('image/background.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    color: rgb(250, 242, 236);
+    background-color: #000000b4;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: blue dotted 2px;
+    padding: 10px 15px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+p {
+    text-align: justify;
+    font-style: italic;
+    color: blue;
+    background-color: hsla(0, 0%, 0%, 0.705);
+    padding: 20px;
+    border: black 3px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: inset;
+    border-left-style: outset;
+    width: 500px;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(255, 251, 249);
+    margin-left: 2px;
+    margin-right: 5px;
+}
